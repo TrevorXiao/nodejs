@@ -1,0 +1,11 @@
+PRECONDITON:
+Download and install nodejs from https://nodejs.org/en/
+run ipconfig to determine your server ip
+1, run cmd
+node upload_file.js
+
+2, in iphone, open web browser, and type http://192.168.1.16:8080/   (where 192.168.1.16 is my server ip, you need to replace it with yours)
+
+3, choose a file to upload and click submit;
+
+4,  The file will be uploaded.
